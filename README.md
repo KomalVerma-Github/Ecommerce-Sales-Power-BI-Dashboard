@@ -1,4 +1,4 @@
-# Ecommerce-Sales-Power-BI-Dashboard
+# Ecommerce-Sales-Power-BI-Dashboard & Ecommerce Sales Excel Dashboard
 Welcome to the eCommerce Sales Power BI Dashboard repository! This project provides a comprehensive and interactive dashboard to analyze and visualize sales data for eCommerce businesses. The dashboard leverages the power of Power BI to offer insights into sales performance, customer behavior, product trends, and more.
 Features:
 Sales Overview: Visualize total sales, average order value, and sales trends over time.
